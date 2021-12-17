@@ -1,0 +1,32 @@
+{ "offovernight":[ 
+	{  "server":"server1",
+        "id":"i-iddafjds",
+	   "region":"ap-southeast-2"
+    },
+    {
+        "server":"server2",
+        "id":"i-iafjabnri",
+	    "region":"ap-southeast-2"
+    }  
+],
+ "dev":[
+    {
+        "server":"server3",
+        "id":"i-05676alkggdf",
+	    "region":"ap-southeast-1"
+    },
+    {
+        "server":"server4",
+        "id":"i-0bc5667c3454c4b5d2",
+	"region":"ap-southeast-1"
+    }
+  
+ ],
+ "config":[
+    {
+        "access_key":"thisismyaccesskey",
+	"secret_key":"thisismysecretkey"
+	
+    }
+ ]
+}
